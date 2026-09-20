@@ -1,7 +1,10 @@
 name = "katelyatv"
-compatibility_date = "2024-09-01"
+compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
-NEXT_PUBLIC_STORAGE_TYPE = local
+
+[vars]
+NEXT_PUBLIC_STORAGE_TYPE = "localstorage"
 USERNAME = "admin"
 AUTH_PASSWORD = "88888888"
+NEXT_PUBLIC_SITE_NAME = "KatelyaTV"
