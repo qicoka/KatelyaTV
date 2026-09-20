@@ -17,7 +17,7 @@ name = "katelyatv"
 [[env.production.d1_databases]]
 binding = "DB"
 database_name = "katelyatv-db"
-database_id = "d3ba757b-2651-4d40-bb0e-ef26ad44b3a8"
+database_id = "0666b003-11d0-477d-a3a1-ec1d1e5b35a9"
 
 # 生产环境变量
 [env.production.vars]
@@ -46,7 +46,7 @@ name = "katelyatv-preview"
 [[env.preview.d1_databases]]
 binding = "DB"
 database_name = "katelyatv-db"
-database_id = "d3ba757b-2651-4d40-bb0e-ef26ad44b3a8"
+database_id = "0666b003-11d0-477d-a3a1-ec1d1e5b35a9"
 
 # 预览环境变量
 [env.preview.vars]
@@ -55,7 +55,7 @@ NEXT_PUBLIC_SITE_NAME = "KatelyaTV"
 NEXT_PUBLIC_SITE_DESCRIPTION = "高性能影视播放平台"
 NEXTAUTH_URL = "https://katelyatv.pages.dev"
 USERNAME = "admin"
-AUTH_PASSWORD = "ab1433223cd@"
+AUTH_PASSWORD = "88888888"
 IMAGE_PROXY_ENABLED = "true"
 CACHE_TTL = "3600"
 CORS_ORIGIN = "*"
