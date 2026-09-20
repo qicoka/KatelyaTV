@@ -7,7 +7,7 @@ pages_build_output_dir = ".vercel/output/static"
 [[d1_databases]]
 binding = "DB"
 database_name = "katelyatv-db"
-database_id = "d3ba757b-2651-4d40-bb0e-ef26ad44b3a8"
+database_id = "0666b003-11d0-477d-a3a1-ec1d1e5b35a9"
 
 # 生产环境配置
 [env.production]
